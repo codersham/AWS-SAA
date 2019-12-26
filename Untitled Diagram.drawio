@@ -1,4 +1,4 @@
-<mxfile modified="2019-12-26T23:30:47.814Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" etag="PE8DDxOMD-XC4Ho9-rWl" version="12.4.3" type="github" pages="2">
+<mxfile modified="2019-12-26T23:31:26.413Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" etag="wqvSS5aO7d6Qy2Y6OmvA" version="12.4.3" type="github" pages="2">
   <diagram id="W3H_bTco_ZeDZuq-P41X" name="Page-1">
     <mxGraphModel dx="1426" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -183,6 +183,9 @@
         </mxCell>
         <mxCell id="JZh1Jyp4K40JoV-eKf8e-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.codepipeline;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="379" y="276.5" width="51" height="61" as="geometry"/>
+        </mxCell>
+        <mxCell id="JZh1Jyp4K40JoV-eKf8e-14" value="&lt;b&gt;Sagemaker&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="248" y="766" width="80" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
