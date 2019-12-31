@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-31T05:06:43.339Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" etag="RhVpfwf2uWJwREZeaOS8" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-31T05:07:05.074Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" etag="147qRLXNBN-sTpdiBJ2N" version="12.4.7" type="github">
   <diagram id="2uscCkdZOsteKkZBZel1" name="Page-1">
     <mxGraphModel dx="1363" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry x="260" y="400" width="60" height="61" as="geometry"/>
         </mxCell>
         <mxCell id="6PmzosYUGS49BsZgMaZS-4" value="CodePipeline" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.codepipeline;fillColor=#759C3E;gradientColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="560" y="290" width="70" height="70" as="geometry"/>
+          <mxGeometry x="560" y="290" width="60" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="6PmzosYUGS49BsZgMaZS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;entryX=-0.019;entryY=0.385;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6PmzosYUGS49BsZgMaZS-5" target="6PmzosYUGS49BsZgMaZS-18">
           <mxGeometry relative="1" as="geometry">
